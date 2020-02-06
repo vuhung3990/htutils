@@ -2,6 +2,7 @@ package com.huutho.utilsexample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.huutho.utilslib.addFragment
 import com.huutho.utilslib.printE
 
 class MainActivity : AppCompatActivity() {
